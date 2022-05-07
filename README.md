@@ -1,0 +1,3 @@
+```shell
+make node && make
+```
